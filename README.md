@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Yash Katara
-- 👀 I’m interested in Cybersecurity, Bug Hunting, Offensive Pentesting and Digital Forensics
-- 🌱 I’m currently learning DevSecOps
-- 💞️ I’m looking to collaborate on Cybersecurity Related Projects
+- 👀 I do Bug Hunting, highly skilled in Threat Modeling, IoT Security and OT Consultations.
+- 🌱 Currently working as a Security Engineer @Ford Motor Company
 - 📫 You can connect me through linkein: linkedin.com/in/heyyash
 
 <!---
